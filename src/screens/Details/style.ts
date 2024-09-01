@@ -68,6 +68,13 @@ const styles = StyleSheet.create({
     padding: 16,
   },
 
+  loadingButton: {
+    padding: 15,
+    margin: 20,
+    borderRadius: 5,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
   unlockButton: {
     backgroundColor: '#ff0000',
     padding: 15,
